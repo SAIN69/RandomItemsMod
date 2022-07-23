@@ -1,4 +1,4 @@
-Greetings o/
+Greetings o/ MC Version: 1.18.2
 
 This is my time releasing a Minecraft mod via GitHub.
 Feel free to leave suggestions as to what I should add - That ranges from items all the way to commands/Guis etc.
@@ -43,6 +43,7 @@ The colors: Red, Orange, White, Magenta, Light Blue, Yellow, Gray (looks similar
 -Added Oreo cookie
 -Added Banitsa (a food from my country).
 -Added a Meatball (Cause why not.
+
 
 
 
