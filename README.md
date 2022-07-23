@@ -30,7 +30,19 @@ Each disc with a custom recipe.
 -You can also summon fireballs by right clicking.
 -It can also summon lightning again by right clicking on the ground.
 
-5.
+5.Ofcourse everyone's favourite the backpack.
+-1 backpack which is the black one has a simple recipe of 1 leather and 1 iron.
+-the other 8 backpacks consist of the same recipe but with a dye.
+The colors: Red, Orange, White, Magenta, Light Blue, Yellow, Gray (looks similar to the black one), and the rainbow (cause I got bored).
+
+6.Wooden path
+-Right now I've made only variant of it that is a simple brown texture for it.
+-No recipe made yet.
+
+7.Food
+-Added Oreo cookie
+-Added Banitsa (a food from my country).
+-Added a Meatball (Cause why not.
 
 
 
