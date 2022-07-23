@@ -16,18 +16,23 @@ That includes: Custom Unstable Dragon Armor texture, Custom model of the Hyperio
 
 
 -Some other items that I made myself:
--10 music discs, each one with a simple texture holding nice different songs that were recommended to me.
+
+1.10 music discs, each one with a simple texture holding nice different songs that were recommended to me.
 The songs: Zeus x Crona - Pill, Legends Never Die, Stay With Me, We Will Meet Again, FKJ - Ylang Ylang, Die First, Locked Out Of Heaven.
 Each disc with a custom recipe.
 
--Leaf armor and a Leaf Sword crafted with just Oak leaves.
+2.Leaf armor and a Leaf Sword crafted with just Oak leaves.
 
--A spruce chair with his own crafting recipe, which you can also sit on. (It's rotation sadly has to be indicated by the /summon command).
+3.A spruce chair with his own crafting recipe, which you can also sit on. (It's rotation sadly has to be indicated by the /summon command).
 
--A Harry Potter's wand (you can only get it in creative) but if you do get it and hit ANY entity it will grant it Levitation for a few seconds.
+4.Harry Potter's wand (you can only get it in creative) but if you do get it and hit ANY entity it will grant it Levitation for a few seconds.
 -It will also grant you a custom achievement "When Pigs Fly" when hitting an entity.
 -You can also summon fireballs by right clicking.
 -It can also summon lightning again by right clicking on the ground.
+
+5.
+
+
 
 
 
